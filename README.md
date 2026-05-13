@@ -1,4 +1,4 @@
-![The Boy and the Moon](./boy-and-moon.png)
+![The Boy and the Moon](./boy-and-moon.jpg)
 
 # Michael Alonza P. Ware
 **Architect & Operator**
