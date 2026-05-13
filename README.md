@@ -1,16 +1,13 @@
-## Hi there 👋
+# Michael Alonza P. Ware
+**Architect & Operator**
 
-<!--
-**mjmichaelware/mjmichaelware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently building **The Weight of the Sky**, a persistent, multi-intelligent Narrative Operating System.
 
-Here are some ideas to get you started:
+### ⚙️ Current Stack & Architecture
+- **Control Surface:** Termux (Android ARM64)
+- **Deployment Engine:** Vercel Edge / GitHub Actions
+- **Core Framework:** Next.js, ReactFlow, Tailwind CSS
+- **Cognitive Layer:** Groq, Gemini, Llama 4 (External Orchestration)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Focus Areas
+AI-assisted literary development, semantic memory integration, and orchestrating multi-intelligent narrative agents.
